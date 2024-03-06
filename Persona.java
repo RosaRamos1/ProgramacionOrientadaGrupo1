@@ -6,7 +6,7 @@ package com.mycompany.persona;
 
 /**
  *
- * @author cafeteria
+ * @author Rosa Ramos
  */
 import java.util.ArrayList;
 import java.util.List;
